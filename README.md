@@ -150,7 +150,7 @@ describe "composing with other patterns" do
 end
 ```
 
-See specs for examples
+See other specs for more usage examples.
 
 ## Development
 
