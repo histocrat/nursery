@@ -22,6 +22,8 @@ Or install it yourself as:
 
 ## Usage
 
+See [the specs](spec) for code samples or [USAGE_GUIDE.md](USAGE_GUIDE.md) for a quick guide. Some quick examples below.
+
 ```ruby
 describe "simple parallelism" do
 
@@ -150,8 +152,6 @@ describe "composing with other patterns" do
 end
 ```
 
-See other specs for more usage examples.
-
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
@@ -160,7 +160,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/nursery. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/histocrat/nursery. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
@@ -168,4 +168,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the Nursery project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/nursery/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the Nursery project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/histocrat/nursery/blob/master/CODE_OF_CONDUCT.md).
