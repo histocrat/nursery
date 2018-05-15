@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-See [the specs](spec) for code samples or [USAGE_GUIDE.md](USAGE_GUIDE.md) for a quick guide. Some quick examples below.
+See [the specs](spec) for code samples (excerpts below) or [USAGE_GUIDE.md](USAGE_GUIDE.md) for a quick guide.
 
 ```ruby
 describe "simple parallelism" do
